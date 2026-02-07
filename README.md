@@ -80,7 +80,7 @@ Logging: Morgan
 
 
 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/janmitr-backend.git
+git clone https://github.com/SatyamRao15/Janmitr-SIH_25031/tree/main/Backend
 cd Backend
 
 
